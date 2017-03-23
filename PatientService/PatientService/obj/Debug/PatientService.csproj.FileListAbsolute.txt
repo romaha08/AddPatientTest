@@ -1,0 +1,6 @@
+c:\users\rakimov\documents\visual studio 2015\Projects\PatientService\PatientService\bin\Debug\PatientService.dll.config
+c:\users\rakimov\documents\visual studio 2015\Projects\PatientService\PatientService\bin\Debug\PatientService.dll
+c:\users\rakimov\documents\visual studio 2015\Projects\PatientService\PatientService\bin\Debug\PatientService.pdb
+c:\users\rakimov\documents\visual studio 2015\Projects\PatientService\PatientService\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rakimov\documents\visual studio 2015\Projects\PatientService\PatientService\obj\Debug\PatientService.dll
+c:\users\rakimov\documents\visual studio 2015\Projects\PatientService\PatientService\obj\Debug\PatientService.pdb

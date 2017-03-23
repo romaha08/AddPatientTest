@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5769b70e-415b-40be-90b0-87b13eb85b2e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PixService.xsd" MetadataType="Schema" ID="a3e6b13e-9bc5-4840-8e00-a440c5484da5" SourceId="1" SourceUrl="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?xsd=xsd2" />
+    <MetadataFile FileName="PixService1.xsd" MetadataType="Schema" ID="db155d68-0159-4bb1-a41d-184339a28598" SourceId="1" SourceUrl="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?xsd=xsd0" />
+    <MetadataFile FileName="PixService2.xsd" MetadataType="Schema" ID="0ef5f9f6-1d84-4258-9c56-1eda6f31097b" SourceId="1" SourceUrl="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?xsd=xsd1" />
+    <MetadataFile FileName="PixService3.xsd" MetadataType="Schema" ID="e79919fb-10ec-4c2c-ba3e-89d66f9ba484" SourceId="1" SourceUrl="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?xsd=xsd4" />
+    <MetadataFile FileName="PixService.wsdl" MetadataType="Wsdl" ID="ccacce20-84d5-4bfa-ba31-8f4d2de5453f" SourceId="1" SourceUrl="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?wsdl" />
+    <MetadataFile FileName="PixService4.xsd" MetadataType="Schema" ID="e2db20c0-1ccc-48f7-bf51-91f4e1c65f44" SourceId="1" SourceUrl="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?xsd=xsd5" />
+    <MetadataFile FileName="PixService5.xsd" MetadataType="Schema" ID="7f9008d8-564a-4c12-95a3-0359b1827528" SourceId="1" SourceUrl="http://demo-iemk20.zdrav.netrika.ru/PixService.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
